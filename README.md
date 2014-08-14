@@ -1,4 +1,4 @@
 calico-repo
 ===========
 
-First Repo
+My first repo.
